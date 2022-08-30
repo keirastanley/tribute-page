@@ -18,7 +18,7 @@ p {
 }
 
 h1 {
-  font-family: 'Kabel';
+  font-family: 'Kabel', 'Hammersmith One';
   font-size: 25px;
   margin: 10px;
 }
