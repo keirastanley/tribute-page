@@ -1,123 +1,11 @@
 <!DOCTYPE html>
-<html><head></head><body>
+<html>
+<head>
 <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="styles.css">
 <link href="http://fonts.cdnfonts.com/css/kabel" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=PT+Serif&display=swap" rel="stylesheet">
-<main id = "main">
-<div class = "container">
-  <!-- HEADINGS -->
-    <div class = "item" id = "title"> my bloody valentine </div>
-  
-  <!-- IMAGES -->
-    <!-- Band Images -->
-    <div class = "item" id = "img-div"><img id = "image" src = "https://lastfm.freetls.fastly.net/i/u/770x0/5330d47783dc6b769b3ff211ae129629.jpg" alt = "Image of the band"><div id= "img-caption"> <p><i> My Bloody Valentine (left: Bilinda Butcher, centre-top: Colm Ó Cíosóig, centre-bottom: Kevin Shields, right: Debbie Googe.)</i></p></div></div>
-  
-    <div class = "item" id = "bandimage2"> <img src = "https://media.pitchfork.com/photos/60a7ce3e39720638854174d0/2:1/w_2560%2Cc_limit/my-bloody-valentine.jpeg"></div>
-  
-    <div class = "item" id = "bandimage3"> <img src = "https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LJM2J3NKMVILZSBHAJIWP4FOXQ.jpg"> </div>
-      
-    <div class = "item" id = "bandimage4"> <img src = "https://static.spin.com/files/2016/11/my-bloody-valentine-1478288202.jpg" alt = "Image of My Bloody Valentine"></div>
-  
-  <div class = "item" id = "bandimage5"> <img src = "https://external-preview.redd.it/3Yrk0trPaVEqLY0F7qy2GX0bFUglWB03bmFd6XxS2ls.jpg?auto=webp&s=c9de9ba5ea39f6c9408e9af8bd973adc96edce7b"></div>
-  
-  <div class = "item" id = "bandimage6"><img src = "https://pleaseturnoffthebrightlights.files.wordpress.com/2021/04/my-blooddy-edited.jpg"></div>
-  
-  
-  <div class = "item" id = "bandimage7"> <img src = "https://1.bp.blogspot.com/-pC-sAm46r38/X7wiDk6C1fI/AAAAAAAAOCE/cfkuHab-T9YtPCcEEEUmHmhuca_VQSDlwCLcBGAsYHQ/s640/MBV%2B3.jpg"></div>
-  
-  <div class = "item" id = "bandimage8"> <img src = "http://farm3.static.flickr.com/2564/4170684640_058db66d97.jpg"></div>
-      
-    <div class = "item" id = "kevimage1"><img src = "https://guitar.com/wp-content/uploads/2021/04/Kevin-Shields-Credit-Ian-Dickson-Redferns@1050x1400.jpg" alt = "Image of Kevin Shields"></div>
-      
-    <div class = "item" id = "bilindaimage1"><img src = "https://lastfm.freetls.fastly.net/i/u/ar0/0f376619a4464bcf91f35f2dfa8c6402" alt = "Image of Bilinda Butcher"></div>
-  
-  <div clas = "item" id = "bilindaimage2"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/My_Bloody_Valentine_2009.05.29_002.jpg/640px-My_Bloody_Valentine_2009.05.29_002.jpg"></div>
-      
-    <!-- Album covers -->
-    <div class = "item" id = "eps"><img src = "https://static.stereogum.com/uploads/2021/05/unnamed-1621611280.jpg" alt = "Cover art for EPs"></div>
-  
-    <!--<div class = "item" id = "isntany"><img src="https://m.media-amazon.com/images/I/71R1whVxcfL._AC_SL1426_.jpg" alt = "Cover art for Isn't Anything"></div>-->
-  
-    <div class = "item" id = "loveless"><img src="https://m.media-amazon.com/images/I/71RoGMpXr-L._AC_SL1425_.jpg" alt = "Cover art for Loveless"></div>
-      
-    <div class = "item" id = "mbv"><img src="https://www.slantmagazine.com/wp-content/uploads/2013/02/mbv.jpg" alt = "Cover art for mbv"></div>
-      
- <!-- QUOTES -->
-  
-    <div class = "item" id = "guitarworld"> <a href = "https://www.tohereknowswhen.org/press/guitarworld-mar92.html"><i>"My Bloody Valentine produce a sound  that is at once familiar yet unrecognizable. Their guitars sputter and wobble like a melted data disk flung from an exploding starship. But somewhere in the din, traces of human life are detectable - pop melodies! It's like hearing pop music for the first time - the way a visitor from another planet might hear it. In some distant galaxy, some three-headed beings are probably gathered around a methane trisulfate campfire at this very moment, singing the latest intergalactic pop hit. And it probably sounds not unlike something off Loveless.""</i> <br></br> Alan DiPerna in <i>“Bloody Guy”</i>, Guitar World </a> </div>
 
-    <div class = "item quote" id = "ulrich"> <a href ="https://xlr8r.com/features/vapour-trails-revisiting-shoegaze/">“Things weren’t going well for a lot of people, after 10 years of the Thatcher government in England. People basically just wanted to escape, whether it was with their eyes closed at a Slowdive gig or raving all weekend on Ecstasy. I think the reason why [shoegaze] is happening at the moment [is that] a lot of people once again have that same sort of desire to escape.”  <br></br> Ulrich Schnauss (electronic producer)</a> </div>
-
-
-
-    <div class = "item quote" id = "simon"> <a href = "http://tohereknowswhen.org/press/blissedout.html"> "Somewhere in between [the “noise” of bands like Sonic Youth and Dinosaur Jr.] but decidedly of itself lies My Bloody Valentine's noise. Their guitars are rampant, clamorous, craving, grazed, engorged, honeyed, horny, somehow extremely oral, somehow obscurely irritable. In 1988's rock pharmacopia, My Bloody Valentine classify as a deliriant and a hallucinogen - they're hyped up and out-of-it, carnal and unbodied. Maybe by their strange working methods (recording an album in two weeks, sleeping one to two hours a night) My Bloody Valentine have discovered a natural psychedelia. Maybe it accounts for the creepy feeling of disreality that inhabits some of their songs, or the sleepy sensuality of others. All outlines blur in what MBV call 'the chaos of desire'." <br></br> Simon Reynolds in <i>Blissed Out: The Raptures of Rock (1990): When You Wake You’re Still In A Dream</i> </a> </div>
-
-
-    <div class = "item quote" id = "deborah"> <a href = "https://trouserpress.com/reviews/my-bloody-valentine/" > "Loveless is pop shredded through the looking glass and painstakingly reassembled on the other side — with each piece set just far enough off-kilter that your senses never regain their balance. Part <i>Pet Sounds</i> and part <i>Metal Machine Music</i>, the album buffs elements of pure noise until the whole is enticing, shimmering — and, on gauzy tracks like "I Only Said" and "When You Sleep" — nearly perfect bubblegum. The deliberate lurching and pitching of songs like the epic "To Here Knows When" seem designed to approximate inner-ear dysfunction, with the clincher being "Touched," a quease-courting 90-second sample loop that will sorely test your faith in technology." <br></br> Deborah Sprague for Trouser Press </a> </div>
-
-    <div class = "item quote" id = "jim"> <a href = "http://www.jimdero.com/News2001/GreatDec2MBV.htm"> "Adding to the mystery is the dreamy, sensual way in which the songs are sung. 'Often when we do vocals, it's 7:30 in the morning; I've usually just fallen asleep and have to be woken up to sing,' Butcher said. 'I'm usually trying to remember what I've been dreaming about when I'm singing.'" <br></br> Jim Derogatis </a> </div>
-
-    <div class = "item quote" id = "classictracks"><h1> Only Shallow</h1> <a href = "https://www.soundonsound.com/techniques/classic-tracks-my-bloody-valentine-only-shallow"> "For the distinctive squalling riff on ‘Only Shallow’, Shields had something of a eureka moment with a ’60s Burman amp and Fender Showman. 'I set them up facing each other with one microphone in the middle and both of them with the tremolo going,'' he explains. 'So the base sound of the thing was these two amps with the tremolos shaking at different rates. I overdubbed that, so you had four different rates of tremolo. Then I sampled it in the Akai and played it backwards, so it was backwards and forwards at the same time, and then played it an octave higher.'<br></br> Adding to the overall melange of MBV’s sound on <i>Loveless</i> were the various keyboard patches comprising of different combinations of feedback, flute and Butcher’s voice. “That was another one of our big things,” says Shields. “I like the pureness of flutes. Also, because of Public Enemy and the kind of samples they were using, I realised that when you make lots of guitar feedback and sample it, you’ve got kind of like endless sounds. So we made a big library of that. If we made a keyboard line, it would be kind of made with these guitar feedback things, then I would also mix a flute sample in there sometimes.” <br></br> Tom Doyle for Sound on Sound</a></div>
-
-  <div class = "item quote" id = "phil"> <h1>Sometimes</h1> <a href = "https://www.shoegazecraze.com/blog-1/my-bloody-valentine-sometimes" >  "You have to listen to this one loud, preferably in headphones, or it won't work. This song is entirely about texture.  Kevin Shields is redefining what a guitar can do, using feedback and distortion almost like a separate instrument, a disembodied wash of harmonic sound that feeds on itself and merges with itself in layers too complex to understand. You have no choice but to surrender to it. If you listen carefully, you can hear the pick strumming the guitar strings, but because the guitar sound is now abstracted away into a self-sustaining haze of distortion, the strumming has become divorced from it, the picking now a mere percussion instrument, like a stick stroking a washboard." <br></br> Phil Steele on "Sometimes" for Shoegaze Craze <a/> </div>
-
-  <div class = "item quote" id = "quietus"> <a href = "https://thequietus.com/articles/08742-kevin-shields-interview-my-bloody-valentine-new-album"> "[The new album is] not going to sound like <i>Loveless</i> where it's like looking into another world. More like Isn't Anything, where it seems to be of this world, but with one foot in another world.  The songs on Loveless had more in common with folk-blues music to me, just a verse and an instrumental passage, circular. The new songs are more... sometimes it's just that, and sometimes it's songs that have one verse, then a musical part, then something that's totally different. More elongated... and more raw. A lot of the guitars are very aggressive.” <br></br> Kevin Shields talking about <i>mbv</i> with The Quietus in 2012 </a> </div>
-
-<div class = "item quote" id = "guardian"><h1>She Found Now</h1> <a href = "https://www.theguardian.com/music/2013/feb/04/mbv-review-my-bloody-valentine"> "At least half the album is in a style roughly similar to <i>Loveless</i>: vocals half-buried beneath a mesh of guitars and samples so dense as to be unfathomable. Some of the sounds feel familiar, not least the woozy effect achieved by strumming the guitar while holding on to the tremolo arm so the notes sway unsteadily in and out of tune. Its constant presence is one of the reasons even a song as luscious, lethargically paced and replete with softly cooing vocals as "She Found Now" never feels relaxing or cosseting: it has a sickly, disconcerting quality, like a kind of aural equivalent of the way you feel just before you faint." <br></br> Alexis Petridis for The Guardian </a> </div>
-
-
-    <div class = "item quote" id = "bluehouse"><h1>Only Tomorrow</h1>  <a href = "https://www.bluehousejournal.com/reviews/into-the-world-of-only-tomorrow-by-my-bloody-valentine-ashley-d-escobar"> "The vocals drift in and out, so hushed they feel underwater, as the guitar comes in and out of tune. Everything feels constant and repetitive, even the screeching refrains become passive. The passivity lulls you into a trance like a stupor you accidentally fall into on a flight. Whenever we sonically move upwards, it feels as if the airplane is too. The whooshes are the jets finally taking off. The vocals are androgynous yet offer sweetness to the abrasive guitar and bass. The lyrics are so purposefully hidden, all the transcripts of it online differentiate in odd ways. The words are not as important as the created atmosphere, instead, they become buried secrets for the listener to interpret as they wish." <br></br> Ashley D. Escobar for BlueHouse Journal </a> </div>
-
-    <div class = "item quote" id = "kevquote1"> <a href = "https://www.bloomsbury.com/uk/my-bloody-valentines-loveless-9780826415486/" >“For <i>Loveless</i>, I had become more immersed in a general state of slight dislocatedness. You see, there’s a subconscious kind of way of using language that’s more impressionistic than the normal way. The way that people speak in their sleep – people are slightly incoherent but it’s not less real. The structure isn’t as formed and as focused. It was just a case of having all of our unconscious stuff and just honing it into something that was acceptable. That was a big part of my life for a long time." <br></br> Kevin Shields in <i>My Bloody Valentine's Loveless (33 1/3)</i> by Mike McGonigal</a></div>
-
-  <div class ="item quote" id = "kevquote2"> <a href= "https://www.theguardian.com/music/2013/oct/03/my-bloody-valentine-kevin-shields-interview"> "Precisely how Shields achieves his queasy, waking-state guitar sound has long been the subject of stubbly examination. <br></br> 'A very loose taped-up tremolo arm on a Fender Jazzmaster, open chording and a few effects,' is as far as he will be drawn. 'It just happens. It's really like magic. It's more the zone, the meditative state I get into. It has very emotional connotations for me. I have to keep very still when I'm playing. I can't explain it. It is magic. I see music. I remember music visually rather than sonically. Colours and shapes moving through each other.' <br></br> Kevin Shields speaking with The Guardian </a> </div>
-
-  <div class = "item quote" id = "kevquote3"> <a href= "https://www.theguardian.com/music/2013/oct/03/my-bloody-valentine-kevin-shields-interview"> "I would say I'm patient rather than stubborn. I just want to produce the best music I can and if events conspire to interrupt that process or the circumstances aren't conducive then I just stop ... and wait. [...] When I know I can do something really good I will wait 10 years to do it." <br></br> Kevin Shields speaking with The Guardian</a></div>
-
-  <!-- MY INFO -->
-<div class = "item myinfo" id = "tribute-info"> <i>My Bloody Valentine</i> are an alternative rock band that was formed in Dublin in 1983. They are perhaps the most famous and popular shoegaze band - shoegaze is a sub-genre of alternative rock characterised by the use of noisy feedback and distortion to create a wall of sound. Since 1987, the band has been made up by Kevin Shields (vocalist, guitarist and sampler), Colm Ó Cíosóig (drummer and sampler), Bilinda Butcher (vocalist and guitarist) and Debbie Googe (bassist).<br></br>The band got its name in 1983 at the suggestion of David Conway, an early member who was once the lead vocalist. (Shields has since claimed to have been unaware of the 1981 slasher film of the same name at the time.)<br></br></div>
-
-<div class = "item myinfo" id = "myinfo2"> <h1>Early Period: <i>EPs, Isn't Anything</i></h1> <i>My Bloody Valentine</i> put out their first release in <i>This is Your Bloody Valentine</i> in 1985 but it didn’t receive much attention. Their second EP <i>The New Record by My Bloody Valentine</i> which was recorded and released in 1986. It was a minor success, reaching 22 on the UK Indie Chart, allowing the band to perform more frequently and begin developing a small following. After <i>My Bloody Valentine</i> opened for his band <i>Biff Bang Pow!</i> in January 1988, Alan McGee approached the band and invited them to record and release a single on Creation Records, of which he was a co-founder. They released <i>You Made Me Realise</i> later that year which was positively received by independent music critics and debuted at number 2 on the UK Indie Chart. 
-  <br></br>
-Just a few months later they would release their first full-length album, <i>Isn’t Anything</i>. It was the band’s first major success, receiving the highest critical acclaim so far and peaking at number 1 on the UK Indie Chart, as well as having a great influence on other shoegaze bands of the time. </div>
-
-<div class = "item myinfo" id = "myinfo3"> <h1>Loveless</h1> Recording for the band’s second album was set to begin in February 1989, with Creation Records expecting the album to be completed in around five days. This would prove to be a comically vast underestimate. After years of stop-start recording marred by constant delays, studio changes and health issues (both Shields and Butcher were afflicted with tinnitus; Creation’s second-in-command suffered a nervous breakdown), the album was finally completed in 1991. 
-<br></br>
-Most of the music on <i>Loveless</i> was written and performed by Shields with vocal and lyrical contributions from Butcher. Despite its near-unanimous critical acclaim, the album was not a commercial success and after the extensive and expensive recording period, as well as his interpseronal issues with Shields, McGee dropped <i>My Bloody Valentine</i> from Creation Records. The band fell apart not long after, recording and/or performing together only rarely for the following two decades. Shields explained that his inability to deliver a follow-up was due to a lack of inspiration in an interview with Magnet magazine. The album was hugely influential on a number of artists such as Robert Smith of <i>The Cure</i> and Billy Corgan of <i>The Smashing Pumpkins</i>. It is regarded by many to be one of the best albums of the 90s and of all time. </div>
-
-    <div class = "item myinfo" id = "myinfo4"> Shields was inspired by both 60s pop and hip hop when making <i>Loveless</i>, both in terms of sound and of technique. In <i>Loveless</i>’ dense textural soundscapes one can hear a call-back the Wall of Sound, developed and utilised by Phil Spector as well as similar recording techniques which were used by Brian Wilson at the time. Then there’s the influence of Public Enemy and the Bomb Squad, most notably their use of sampling. By early 1991 the band had acquired an Akai sampler. Other equipment used by Shields included Fender Jaguars and Jazzmasters, which he altered by extending the tremolo arm and loosening it so that he was able to manipulate it while strumming. He also used reverb from units such as the Alesis Midiverb II and the Yamaha SPX90.  </div>
-
-<div class = "item" id = "myinfo5">  </div>
-
-<div class = "item myinfo" id = "myinfo6"> In the years following <i>Loveless</i>' release, Shields teased a third release regularly but nothing materilised. He received comparisons to musicians such as Brian Wilson and Syd Barrett in the music press due to his reputation as a recluse and his inability to deliver a follow-up. He explained his lack of musical output during this time as being due to a lack of inspiration in an interview with Magnet magazine. Finally, the last of the recording, mixing and mastering was completed in 2012. 
-</div>
-
-<div class = "item myinfo" id = "myinfo7"><h1>mbv</h1> In 2013, the album <i>mbv</i> was finally released. The band chose to put it out on their own label, mbv Records. It was made available to purchase on their website, which crashed within minutes of the album's release due to heavy web traffic. Though the reception to  <i>Loveless</i> made for a tough follow-up, this album too was released to critical acclaim. It contained many elements familiar to <i>My Bloody Valentine</i >'s ouevre such as the lush soundscapes, the buried and adrongynous vocals and the unconventional song structures but with some new directions too, paerticularly in its final three tracks which Alexis Petridis described as "unlike anything My Bloody Valentine have released before" in his review for the Guardian. </div>
-
-  <!-- VIDEOS -->
-  
-    <div class="vid-container" id = "vid1">
-      <iframe width= "100%" height= "450" src="https://www.youtube.com/embed/pMCm3RLuSt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-  </div>
-
-    <div class="vid-container" id = "vid2"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/FyYMzEplnfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
-
-    <div class="vid-container" id = "vid3"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/hSI_9P9rRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-    <div class="vid-container" id = "vid4"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/rBKjhgHGVZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-    <div class="vid-container" id = "vid5"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/y2FQ3ih0MoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-<!-- EXTERNAL LINKS -->
-<div class = "item" id = "moreinfo"> For more information visit My Bloody Valentine's <a id = "tribute-link" href="https://mybloodyvalentine.org" target="_blank"> official website </a> or check out <a href = "http://tohereknowswhen.org" target="_blank"> To Here Knows Web</a>, a popular fansite with tons of articles and information about the band.</div>
-
-</div>
-</main>
-</body>
-</html>
-
-<head>
 <style>
   body {
   background-image: linear-gradient(rgb(138, 113, 99), rgb(219, 48, 134), rgb(74, 34, 168));
@@ -1597,4 +1485,118 @@ img {
 
   }
   </style>
-  </head>
+
+</head>
+<body>
+<main id = "main">
+<div class = "container">
+  <!-- HEADINGS -->
+    <div class = "item" id = "title"> my bloody valentine </div>
+  
+  <!-- IMAGES -->
+    <!-- Band Images -->
+    <div class = "item" id = "img-div"><img id = "image" src = "https://lastfm.freetls.fastly.net/i/u/770x0/5330d47783dc6b769b3ff211ae129629.jpg" alt = "Image of the band"><div id= "img-caption"> <p><i> My Bloody Valentine (left: Bilinda Butcher, centre-top: Colm Ó Cíosóig, centre-bottom: Kevin Shields, right: Debbie Googe.)</i></p></div></div>
+  
+    <div class = "item" id = "bandimage2"> <img src = "https://media.pitchfork.com/photos/60a7ce3e39720638854174d0/2:1/w_2560%2Cc_limit/my-bloody-valentine.jpeg"></div>
+  
+    <div class = "item" id = "bandimage3"> <img src = "https://cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/LJM2J3NKMVILZSBHAJIWP4FOXQ.jpg"> </div>
+      
+    <div class = "item" id = "bandimage4"> <img src = "https://static.spin.com/files/2016/11/my-bloody-valentine-1478288202.jpg" alt = "Image of My Bloody Valentine"></div>
+  
+  <div class = "item" id = "bandimage5"> <img src = "https://external-preview.redd.it/3Yrk0trPaVEqLY0F7qy2GX0bFUglWB03bmFd6XxS2ls.jpg?auto=webp&s=c9de9ba5ea39f6c9408e9af8bd973adc96edce7b"></div>
+  
+  <div class = "item" id = "bandimage6"><img src = "https://pleaseturnoffthebrightlights.files.wordpress.com/2021/04/my-blooddy-edited.jpg"></div>
+  
+  
+  <div class = "item" id = "bandimage7"> <img src = "https://1.bp.blogspot.com/-pC-sAm46r38/X7wiDk6C1fI/AAAAAAAAOCE/cfkuHab-T9YtPCcEEEUmHmhuca_VQSDlwCLcBGAsYHQ/s640/MBV%2B3.jpg"></div>
+  
+  <div class = "item" id = "bandimage8"> <img src = "http://farm3.static.flickr.com/2564/4170684640_058db66d97.jpg"></div>
+      
+    <div class = "item" id = "kevimage1"><img src = "https://guitar.com/wp-content/uploads/2021/04/Kevin-Shields-Credit-Ian-Dickson-Redferns@1050x1400.jpg" alt = "Image of Kevin Shields"></div>
+      
+    <div class = "item" id = "bilindaimage1"><img src = "https://lastfm.freetls.fastly.net/i/u/ar0/0f376619a4464bcf91f35f2dfa8c6402" alt = "Image of Bilinda Butcher"></div>
+  
+  <div clas = "item" id = "bilindaimage2"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/My_Bloody_Valentine_2009.05.29_002.jpg/640px-My_Bloody_Valentine_2009.05.29_002.jpg"></div>
+      
+    <!-- Album covers -->
+    <div class = "item" id = "eps"><img src = "https://static.stereogum.com/uploads/2021/05/unnamed-1621611280.jpg" alt = "Cover art for EPs"></div>
+  
+    <!--<div class = "item" id = "isntany"><img src="https://m.media-amazon.com/images/I/71R1whVxcfL._AC_SL1426_.jpg" alt = "Cover art for Isn't Anything"></div>-->
+  
+    <div class = "item" id = "loveless"><img src="https://m.media-amazon.com/images/I/71RoGMpXr-L._AC_SL1425_.jpg" alt = "Cover art for Loveless"></div>
+      
+    <div class = "item" id = "mbv"><img src="https://www.slantmagazine.com/wp-content/uploads/2013/02/mbv.jpg" alt = "Cover art for mbv"></div>
+      
+ <!-- QUOTES -->
+  
+    <div class = "item" id = "guitarworld"> <a href = "https://www.tohereknowswhen.org/press/guitarworld-mar92.html"><i>"My Bloody Valentine produce a sound  that is at once familiar yet unrecognizable. Their guitars sputter and wobble like a melted data disk flung from an exploding starship. But somewhere in the din, traces of human life are detectable - pop melodies! It's like hearing pop music for the first time - the way a visitor from another planet might hear it. In some distant galaxy, some three-headed beings are probably gathered around a methane trisulfate campfire at this very moment, singing the latest intergalactic pop hit. And it probably sounds not unlike something off Loveless.""</i> <br></br> Alan DiPerna in <i>“Bloody Guy”</i>, Guitar World </a> </div>
+
+    <div class = "item quote" id = "ulrich"> <a href ="https://xlr8r.com/features/vapour-trails-revisiting-shoegaze/">“Things weren’t going well for a lot of people, after 10 years of the Thatcher government in England. People basically just wanted to escape, whether it was with their eyes closed at a Slowdive gig or raving all weekend on Ecstasy. I think the reason why [shoegaze] is happening at the moment [is that] a lot of people once again have that same sort of desire to escape.”  <br></br> Ulrich Schnauss (electronic producer)</a> </div>
+
+
+
+    <div class = "item quote" id = "simon"> <a href = "http://tohereknowswhen.org/press/blissedout.html"> "Somewhere in between [the “noise” of bands like Sonic Youth and Dinosaur Jr.] but decidedly of itself lies My Bloody Valentine's noise. Their guitars are rampant, clamorous, craving, grazed, engorged, honeyed, horny, somehow extremely oral, somehow obscurely irritable. In 1988's rock pharmacopia, My Bloody Valentine classify as a deliriant and a hallucinogen - they're hyped up and out-of-it, carnal and unbodied. Maybe by their strange working methods (recording an album in two weeks, sleeping one to two hours a night) My Bloody Valentine have discovered a natural psychedelia. Maybe it accounts for the creepy feeling of disreality that inhabits some of their songs, or the sleepy sensuality of others. All outlines blur in what MBV call 'the chaos of desire'." <br></br> Simon Reynolds in <i>Blissed Out: The Raptures of Rock (1990): When You Wake You’re Still In A Dream</i> </a> </div>
+
+
+    <div class = "item quote" id = "deborah"> <a href = "https://trouserpress.com/reviews/my-bloody-valentine/" > "Loveless is pop shredded through the looking glass and painstakingly reassembled on the other side — with each piece set just far enough off-kilter that your senses never regain their balance. Part <i>Pet Sounds</i> and part <i>Metal Machine Music</i>, the album buffs elements of pure noise until the whole is enticing, shimmering — and, on gauzy tracks like "I Only Said" and "When You Sleep" — nearly perfect bubblegum. The deliberate lurching and pitching of songs like the epic "To Here Knows When" seem designed to approximate inner-ear dysfunction, with the clincher being "Touched," a quease-courting 90-second sample loop that will sorely test your faith in technology." <br></br> Deborah Sprague for Trouser Press </a> </div>
+
+    <div class = "item quote" id = "jim"> <a href = "http://www.jimdero.com/News2001/GreatDec2MBV.htm"> "Adding to the mystery is the dreamy, sensual way in which the songs are sung. 'Often when we do vocals, it's 7:30 in the morning; I've usually just fallen asleep and have to be woken up to sing,' Butcher said. 'I'm usually trying to remember what I've been dreaming about when I'm singing.'" <br></br> Jim Derogatis </a> </div>
+
+    <div class = "item quote" id = "classictracks"><h1> Only Shallow</h1> <a href = "https://www.soundonsound.com/techniques/classic-tracks-my-bloody-valentine-only-shallow"> "For the distinctive squalling riff on ‘Only Shallow’, Shields had something of a eureka moment with a ’60s Burman amp and Fender Showman. 'I set them up facing each other with one microphone in the middle and both of them with the tremolo going,'' he explains. 'So the base sound of the thing was these two amps with the tremolos shaking at different rates. I overdubbed that, so you had four different rates of tremolo. Then I sampled it in the Akai and played it backwards, so it was backwards and forwards at the same time, and then played it an octave higher.'<br></br> Adding to the overall melange of MBV’s sound on <i>Loveless</i> were the various keyboard patches comprising of different combinations of feedback, flute and Butcher’s voice. “That was another one of our big things,” says Shields. “I like the pureness of flutes. Also, because of Public Enemy and the kind of samples they were using, I realised that when you make lots of guitar feedback and sample it, you’ve got kind of like endless sounds. So we made a big library of that. If we made a keyboard line, it would be kind of made with these guitar feedback things, then I would also mix a flute sample in there sometimes.” <br></br> Tom Doyle for Sound on Sound</a></div>
+
+  <div class = "item quote" id = "phil"> <h1>Sometimes</h1> <a href = "https://www.shoegazecraze.com/blog-1/my-bloody-valentine-sometimes" >  "You have to listen to this one loud, preferably in headphones, or it won't work. This song is entirely about texture.  Kevin Shields is redefining what a guitar can do, using feedback and distortion almost like a separate instrument, a disembodied wash of harmonic sound that feeds on itself and merges with itself in layers too complex to understand. You have no choice but to surrender to it. If you listen carefully, you can hear the pick strumming the guitar strings, but because the guitar sound is now abstracted away into a self-sustaining haze of distortion, the strumming has become divorced from it, the picking now a mere percussion instrument, like a stick stroking a washboard." <br></br> Phil Steele on "Sometimes" for Shoegaze Craze <a/> </div>
+
+  <div class = "item quote" id = "quietus"> <a href = "https://thequietus.com/articles/08742-kevin-shields-interview-my-bloody-valentine-new-album"> "[The new album is] not going to sound like <i>Loveless</i> where it's like looking into another world. More like Isn't Anything, where it seems to be of this world, but with one foot in another world.  The songs on Loveless had more in common with folk-blues music to me, just a verse and an instrumental passage, circular. The new songs are more... sometimes it's just that, and sometimes it's songs that have one verse, then a musical part, then something that's totally different. More elongated... and more raw. A lot of the guitars are very aggressive.” <br></br> Kevin Shields talking about <i>mbv</i> with The Quietus in 2012 </a> </div>
+
+<div class = "item quote" id = "guardian"><h1>She Found Now</h1> <a href = "https://www.theguardian.com/music/2013/feb/04/mbv-review-my-bloody-valentine"> "At least half the album is in a style roughly similar to <i>Loveless</i>: vocals half-buried beneath a mesh of guitars and samples so dense as to be unfathomable. Some of the sounds feel familiar, not least the woozy effect achieved by strumming the guitar while holding on to the tremolo arm so the notes sway unsteadily in and out of tune. Its constant presence is one of the reasons even a song as luscious, lethargically paced and replete with softly cooing vocals as "She Found Now" never feels relaxing or cosseting: it has a sickly, disconcerting quality, like a kind of aural equivalent of the way you feel just before you faint." <br></br> Alexis Petridis for The Guardian </a> </div>
+
+
+    <div class = "item quote" id = "bluehouse"><h1>Only Tomorrow</h1>  <a href = "https://www.bluehousejournal.com/reviews/into-the-world-of-only-tomorrow-by-my-bloody-valentine-ashley-d-escobar"> "The vocals drift in and out, so hushed they feel underwater, as the guitar comes in and out of tune. Everything feels constant and repetitive, even the screeching refrains become passive. The passivity lulls you into a trance like a stupor you accidentally fall into on a flight. Whenever we sonically move upwards, it feels as if the airplane is too. The whooshes are the jets finally taking off. The vocals are androgynous yet offer sweetness to the abrasive guitar and bass. The lyrics are so purposefully hidden, all the transcripts of it online differentiate in odd ways. The words are not as important as the created atmosphere, instead, they become buried secrets for the listener to interpret as they wish." <br></br> Ashley D. Escobar for BlueHouse Journal </a> </div>
+
+    <div class = "item quote" id = "kevquote1"> <a href = "https://www.bloomsbury.com/uk/my-bloody-valentines-loveless-9780826415486/" >“For <i>Loveless</i>, I had become more immersed in a general state of slight dislocatedness. You see, there’s a subconscious kind of way of using language that’s more impressionistic than the normal way. The way that people speak in their sleep – people are slightly incoherent but it’s not less real. The structure isn’t as formed and as focused. It was just a case of having all of our unconscious stuff and just honing it into something that was acceptable. That was a big part of my life for a long time." <br></br> Kevin Shields in <i>My Bloody Valentine's Loveless (33 1/3)</i> by Mike McGonigal</a></div>
+
+  <div class ="item quote" id = "kevquote2"> <a href= "https://www.theguardian.com/music/2013/oct/03/my-bloody-valentine-kevin-shields-interview"> "Precisely how Shields achieves his queasy, waking-state guitar sound has long been the subject of stubbly examination. <br></br> 'A very loose taped-up tremolo arm on a Fender Jazzmaster, open chording and a few effects,' is as far as he will be drawn. 'It just happens. It's really like magic. It's more the zone, the meditative state I get into. It has very emotional connotations for me. I have to keep very still when I'm playing. I can't explain it. It is magic. I see music. I remember music visually rather than sonically. Colours and shapes moving through each other.' <br></br> Kevin Shields speaking with The Guardian </a> </div>
+
+  <div class = "item quote" id = "kevquote3"> <a href= "https://www.theguardian.com/music/2013/oct/03/my-bloody-valentine-kevin-shields-interview"> "I would say I'm patient rather than stubborn. I just want to produce the best music I can and if events conspire to interrupt that process or the circumstances aren't conducive then I just stop ... and wait. [...] When I know I can do something really good I will wait 10 years to do it." <br></br> Kevin Shields speaking with The Guardian</a></div>
+
+  <!-- MY INFO -->
+<div class = "item myinfo" id = "tribute-info"> <i>My Bloody Valentine</i> are an alternative rock band that was formed in Dublin in 1983. They are perhaps the most famous and popular shoegaze band - shoegaze is a sub-genre of alternative rock characterised by the use of noisy feedback and distortion to create a wall of sound. Since 1987, the band has been made up by Kevin Shields (vocalist, guitarist and sampler), Colm Ó Cíosóig (drummer and sampler), Bilinda Butcher (vocalist and guitarist) and Debbie Googe (bassist).<br></br>The band got its name in 1983 at the suggestion of David Conway, an early member who was once the lead vocalist. (Shields has since claimed to have been unaware of the 1981 slasher film of the same name at the time.)<br></br></div>
+
+<div class = "item myinfo" id = "myinfo2"> <h1>Early Period: <i>EPs, Isn't Anything</i></h1> <i>My Bloody Valentine</i> put out their first release in <i>This is Your Bloody Valentine</i> in 1985 but it didn’t receive much attention. Their second EP <i>The New Record by My Bloody Valentine</i> which was recorded and released in 1986. It was a minor success, reaching 22 on the UK Indie Chart, allowing the band to perform more frequently and begin developing a small following. After <i>My Bloody Valentine</i> opened for his band <i>Biff Bang Pow!</i> in January 1988, Alan McGee approached the band and invited them to record and release a single on Creation Records, of which he was a co-founder. They released <i>You Made Me Realise</i> later that year which was positively received by independent music critics and debuted at number 2 on the UK Indie Chart. 
+  <br></br>
+Just a few months later they would release their first full-length album, <i>Isn’t Anything</i>. It was the band’s first major success, receiving the highest critical acclaim so far and peaking at number 1 on the UK Indie Chart, as well as having a great influence on other shoegaze bands of the time. </div>
+
+<div class = "item myinfo" id = "myinfo3"> <h1>Loveless</h1> Recording for the band’s second album was set to begin in February 1989, with Creation Records expecting the album to be completed in around five days. This would prove to be a comically vast underestimate. After years of stop-start recording marred by constant delays, studio changes and health issues (both Shields and Butcher were afflicted with tinnitus; Creation’s second-in-command suffered a nervous breakdown), the album was finally completed in 1991. 
+<br></br>
+Most of the music on <i>Loveless</i> was written and performed by Shields with vocal and lyrical contributions from Butcher. Despite its near-unanimous critical acclaim, the album was not a commercial success and after the extensive and expensive recording period, as well as his interpseronal issues with Shields, McGee dropped <i>My Bloody Valentine</i> from Creation Records. The band fell apart not long after, recording and/or performing together only rarely for the following two decades. Shields explained that his inability to deliver a follow-up was due to a lack of inspiration in an interview with Magnet magazine. The album was hugely influential on a number of artists such as Robert Smith of <i>The Cure</i> and Billy Corgan of <i>The Smashing Pumpkins</i>. It is regarded by many to be one of the best albums of the 90s and of all time. </div>
+
+    <div class = "item myinfo" id = "myinfo4"> Shields was inspired by both 60s pop and hip hop when making <i>Loveless</i>, both in terms of sound and of technique. In <i>Loveless</i>’ dense textural soundscapes one can hear a call-back the Wall of Sound, developed and utilised by Phil Spector as well as similar recording techniques which were used by Brian Wilson at the time. Then there’s the influence of Public Enemy and the Bomb Squad, most notably their use of sampling. By early 1991 the band had acquired an Akai sampler. Other equipment used by Shields included Fender Jaguars and Jazzmasters, which he altered by extending the tremolo arm and loosening it so that he was able to manipulate it while strumming. He also used reverb from units such as the Alesis Midiverb II and the Yamaha SPX90.  </div>
+
+<div class = "item" id = "myinfo5">  </div>
+
+<div class = "item myinfo" id = "myinfo6"> In the years following <i>Loveless</i>' release, Shields teased a third release regularly but nothing materilised. He received comparisons to musicians such as Brian Wilson and Syd Barrett in the music press due to his reputation as a recluse and his inability to deliver a follow-up. He explained his lack of musical output during this time as being due to a lack of inspiration in an interview with Magnet magazine. Finally, the last of the recording, mixing and mastering was completed in 2012. 
+</div>
+
+<div class = "item myinfo" id = "myinfo7"><h1>mbv</h1> In 2013, the album <i>mbv</i> was finally released. The band chose to put it out on their own label, mbv Records. It was made available to purchase on their website, which crashed within minutes of the album's release due to heavy web traffic. Though the reception to  <i>Loveless</i> made for a tough follow-up, this album too was released to critical acclaim. It contained many elements familiar to <i>My Bloody Valentine</i >'s ouevre such as the lush soundscapes, the buried and adrongynous vocals and the unconventional song structures but with some new directions too, paerticularly in its final three tracks which Alexis Petridis described as "unlike anything My Bloody Valentine have released before" in his review for the Guardian. </div>
+
+  <!-- VIDEOS -->
+  
+    <div class="vid-container" id = "vid1">
+      <iframe width= "100%" height= "450" src="https://www.youtube.com/embed/pMCm3RLuSt0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+  </div>
+
+    <div class="vid-container" id = "vid2"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/FyYMzEplnfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
+
+    <div class="vid-container" id = "vid3"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/hSI_9P9rRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+    <div class="vid-container" id = "vid4"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/rBKjhgHGVZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+    <div class="vid-container" id = "vid5"><iframe width= "100%" height= "450" src="https://www.youtube.com/embed/y2FQ3ih0MoE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<!-- EXTERNAL LINKS -->
+<div class = "item" id = "moreinfo"> For more information visit My Bloody Valentine's <a id = "tribute-link" href="https://mybloodyvalentine.org" target="_blank"> official website </a> or check out <a href = "http://tohereknowswhen.org" target="_blank"> To Here Knows Web</a>, a popular fansite with tons of articles and information about the band.</div>
+
+</div>
+</main>
+</body>
+</html>
